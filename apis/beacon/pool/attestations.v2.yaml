@@ -31,7 +31,7 @@ get:
               version:
                 type: string
                 enum: [phase0, altair, bellatrix, capella, deneb, electra, fulu, gloas]
-                example: "fulu"
+                example: "gloas"
               data:
                 anyOf:
                   - type: array
